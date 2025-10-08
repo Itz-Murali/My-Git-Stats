@@ -16,11 +16,10 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  stroke: rgb(225, 228, 232);
-  stroke-width: 1px;
+  fill: url(#bgGradient);
   rx: 6px;
   ry: 6px;
-    fill: url(#bgGradient);
+  stroke: transparent;
 }
 
 #gh-dark-mode-only:target #background {
