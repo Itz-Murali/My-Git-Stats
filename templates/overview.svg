@@ -2,10 +2,10 @@
   <defs>
     
         
-        <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0%" stop-color="#ff5555" />  
-  <stop offset="50%" stop-color="#ff79c6" /> 
-  <stop offset="100%" stop-color="#bd93f9" /> 
+<linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#0f2027" />   <!-- Deep Space -->
+  <stop offset="50%" stop-color="#203a43" />   <!-- Cool Teal -->
+  <stop offset="100%" stop-color="#2c5364" />  <!-- Steel Blue -->
 </linearGradient>
   </defs>
   <style>
@@ -24,10 +24,6 @@ svg {
   stroke: transparent;
 }
 
-#gh-dark-mode-only:target #background {
-  fill: #0d1117;
-  stroke-width: 0.5px;
-}
 
 foreignObject {
   width: calc(100% - 10px - 32px);
@@ -46,12 +42,11 @@ th {
   text-align: left;
   font-size: 14px;
   font-weight: 600;
-  color: rgb(3, 102, 214);
+  background: linear-gradient(90deg, #00b4db, #0083b0, #005f73);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
-#gh-dark-mode-only:target th {
-  color: #58a6ff;
-}
 
 td {
   margin-bottom: 16px;
@@ -59,12 +54,10 @@ td {
   padding: 0.25em;
   font-size: 12px;
   line-height: 18px;
-  color: rgb(88, 96, 105);
+  color: white;
 }
 
-#gh-dark-mode-only:target td {
-  color: #c9d1d9;
-}
+
 
 tr {
   transform: translateX(-200%);
@@ -72,13 +65,13 @@ tr {
 }
 
 .octicon {
-  fill: rgb(88, 96, 105);
+  color: white;
   margin-right: 1ch;
   vertical-align: top;
 }
 
-#gh-dark-mode-only:target .octicon {
-  fill: #8b949e;
+.octicon path {
+  fill: #39ff14; 
 }
 
 @keyframes slideIn {
