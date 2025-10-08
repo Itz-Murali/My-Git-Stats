@@ -1,10 +1,12 @@
 <svg id="gh-dark-mode-only" width="360" height="210" xmlns="http://www.w3.org/2000/svg">
   <defs>
     
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#a1c4fd"/>
-      <stop offset="100%" stop-color="#c2e9fb"/>
-    </linearGradient>
+        
+        <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#ff5555" />  
+  <stop offset="50%" stop-color="#ff79c6" /> 
+  <stop offset="100%" stop-color="#bd93f9" /> 
+</linearGradient>
   </defs>
   <style>
 svg {
