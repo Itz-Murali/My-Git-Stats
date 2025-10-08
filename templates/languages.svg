@@ -107,20 +107,15 @@ div.ellipsis {
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: rgb(36, 41, 46);
+  color: white;
 }
 
-#gh-dark-mode-only:target .lang {
-  color: #c9d1d9;
-}
+
 
 .percent {
-  color: rgb(88, 96, 105)
+    fill: #39ff14; 
 }
-
-#gh-dark-mode-only:target .percent {
-  color: #8b949e;
-}
+    
 </style>
 <g>
 <rect x="5" y="5" id="background" />
