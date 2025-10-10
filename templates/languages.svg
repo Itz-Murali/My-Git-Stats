@@ -33,9 +33,9 @@ h2 {
   margin-top: 0;
   margin-bottom: 0.75em;
   line-height: 24px;
-  font-size: 16px;
-  font-weight: 700;
-  background: linear-gradient(90deg, #0f0c29, #302b63, #24243e);
+font-size: 17px;
+  font-weight: 600;
+  background: linear-gradient(90deg, #00b4db, #0083b0, #005f73);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
