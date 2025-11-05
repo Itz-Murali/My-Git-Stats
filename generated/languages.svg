@@ -2,9 +2,8 @@
     <defs>
 
 <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0%" stop-color="#0f2027" />  
-  <stop offset="50%" stop-color="#203a43" />   
-  <stop offset="100%" stop-color="#2c5364" />  
+  <stop offset="0%" stop-color="#fbc2eb" />
+  <stop offset="100%" stop-color="#a6c1ee" />
 </linearGradient>
   </defs>
 <style>
@@ -127,7 +126,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3178c6;width: 20.656%;" class="progress-item"></span><span style="background-color: #3572A5;width: 13.266%;" class="progress-item"></span><span style="background-color: #a52a22;width: 10.029%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 9.516%;" class="progress-item"></span><span style="background-color: #e34c26;width: 6.893%;" class="progress-item"></span><span style="background-color: #00B4AB;width: 6.767%;" class="progress-item"></span><span style="background-color: #F05138;width: 5.731%;" class="progress-item"></span><span style="background-color: #b07219;width: 4.711%;" class="progress-item"></span><span style="background-color: #dea584;width: 4.339%;" class="progress-item"></span><span style="background-color: #6e4a7e;width: 3.168%;" class="progress-item"></span><span style="background-color: #555555;width: 2.843%;" class="progress-item"></span><span style="background-color: #663399;width: 2.653%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 2.460%;" class="progress-item"></span><span style="background-color: #ec915c;width: 2.263%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 2.243%;" class="progress-item"></span><span style="background-color: #701516;width: 1.448%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 0.886%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.079%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.036%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.008%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.003%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.001%;" class="progress-item"></span>
+<span style="background-color: #3178c6;width: 20.656%;" class="progress-item"></span><span style="background-color: #3572A5;width: 13.267%;" class="progress-item"></span><span style="background-color: #a52a22;width: 10.029%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 9.516%;" class="progress-item"></span><span style="background-color: #e34c26;width: 6.893%;" class="progress-item"></span><span style="background-color: #00B4AB;width: 6.767%;" class="progress-item"></span><span style="background-color: #F05138;width: 5.731%;" class="progress-item"></span><span style="background-color: #b07219;width: 4.711%;" class="progress-item"></span><span style="background-color: #dea584;width: 4.339%;" class="progress-item"></span><span style="background-color: #6e4a7e;width: 3.167%;" class="progress-item"></span><span style="background-color: #555555;width: 2.843%;" class="progress-item"></span><span style="background-color: #663399;width: 2.653%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 2.460%;" class="progress-item"></span><span style="background-color: #ec915c;width: 2.263%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 2.243%;" class="progress-item"></span><span style="background-color: #701516;width: 1.448%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 0.886%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.079%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.036%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.008%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.003%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.001%;" class="progress-item"></span>
 </span>
 </div>
 
