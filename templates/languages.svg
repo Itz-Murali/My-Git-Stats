@@ -107,7 +107,7 @@ div.ellipsis {
 .lang {
   
   margin-right: 4px;
-  color: 9d4edd;
+  color: #9d4edd;
 }
 
 
