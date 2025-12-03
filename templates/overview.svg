@@ -71,7 +71,7 @@ tr {
 }
 
 .octicon path {
-  fill: #39ff14; 
+  fill: #FF073A; 
 }
 
 @keyframes slideIn {
